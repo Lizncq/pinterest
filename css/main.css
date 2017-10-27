@@ -1,11 +1,102 @@
 body {
-  background: black;
+  margin: 0px;
+  padding: 0px;
+  height: 500px;
 }
-.w3-input {
-  width: 70%;
+header {
+  position: fixed;
+  z-index: 1000px;
+}
+ul {
+  list-style: none;
+}
+
+}
+.input {
+  width: 50%;
   height: 20px;
   margin-left: 40px;
   background-color: #EFEFEF;
   border-radius: 5px;
   border: none;
+}
+.icon-p {
+color: #BD081C;
+font-size: 30px;
+}
+li {
+  display: inline-block;
+  background:
+}
+.menu {
+  background: rgba(150,110,75,.8);
+  border-radius: 5px;
+  width: 120px;
+  height: 50px;
+  text-align: center;
+}
+.text {
+  display: inline-block;
+  padding-top: 10px;
+  font-weight: 700;
+  color: #fff;
+}
+
+main {
+  display: block;
+  margin-top: 140px;
+  height: 200%;
+}
+
+.bg-dfaba49d42825148c330fbea08a90673__computer_programming_computer_science {
+    width: 736px; height: 2449px;
+    background: url('../assets/imgs/css_sprites.png') -766px -3193px;
+}
+
+
+.bg-2919006d261b52f76039de7943e9a949__jquery_cheat_sheet_javascript_cheat_sheet {
+    width: 200px; height: 300px;
+    background: url('css_sprites.png') -1522px -360px;
+}
+
+
+.bg-472e93e0a83b58aa3b7fabbce198de50__python_programming_open_book {
+    width: 250px; height: 330px;
+    background: url('css_sprites.png') -1522px -10px;
+}
+
+
+.bg-8b2aae5268dcaf515582bd43bfd61936__markup_language_python_programming {
+    width: 700px; height: 4778px;
+    background: url('css_sprites.png') -10px -4732px;
+}
+
+
+.bg-f8877de598d61b822ea75a8789b4658c__dot_org_leave_a_comment {
+    width: 736px; height: 4702px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+
+.bg-c36676e9df58f22c5e48ec1fc35fda99__programming_languages_javascript_infographic {
+    width: 736px; height: 1713px;
+    background: url('css_sprites.png') -766px -5662px;
+}
+
+
+.bg-34d7134e5f92476cd0bb416840f1ee67__programming_languages_computer_programming {
+    width: 736px; height: 952px;
+    background: url('css_sprites.png') -766px -7395px;
+}
+
+
+.bg-a4ba94ca16d4cda1f53cacaff7d1d3f7__web_design_and_development_software_development {
+    width: 736px; height: 3163px;
+    background: url('css_sprites.png') -766px -10px;
+}
+
+
+.bg-3d0143178f40b5199a010e13ba997427__dezvoltare_web_websites_design {
+    width: 564px; height: 1047px;
+    background: url('css_sprites.png') -766px -8367px;
 }
